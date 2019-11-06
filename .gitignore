@@ -1,1 +1,3 @@
-.idea
+NewProject/.idea
+NewProject/target
+*.iml
